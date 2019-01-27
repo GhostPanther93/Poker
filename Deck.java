@@ -1,4 +1,3 @@
-package egr283.chapter1and2.edu;
 import java.util.Random;
 
 public class Deck {
