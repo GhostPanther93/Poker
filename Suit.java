@@ -1,4 +1,3 @@
-package egr283.chapter1and2.edu;
 
 public enum Suit {
 	HEARTS("Hearts", '\u2665'), DIAMONDS("Diamonds", '\u2666'),
