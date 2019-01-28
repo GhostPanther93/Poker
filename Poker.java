@@ -1,7 +1,6 @@
-package egr283.chapter1and2.edu;
 
 import java.util.Scanner;
-
+// This is a work in progress lol
 public class Poker {
 
 	public static void main (String[] args) {
