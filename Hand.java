@@ -1,5 +1,3 @@
-package egr283.chapter1and2.edu;
-
 public class Hand {
 
 	private PlayingCard[] cards;
